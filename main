@@ -13,8 +13,8 @@
 (function() {
     'use strict';
 
-    const myName = "김만붕";
-    const myPhone = "01012345678";
+    const myName = "김태완";
+    const myPhone = "01021999199";
 
     const selectors = [
         { name: "input[name='nm'], #nm", phone: "input[name='mbphn_no'], #mbphn_no" },
